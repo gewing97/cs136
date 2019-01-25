@@ -1,0 +1,15 @@
+Name: Graham Wing
+Email: gewing@ucla.edu
+DETER Username: la136fa
+
+Images:
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+
+1) /var is the standard location for processes with root permissions to write variable data to for the operating system and other processes to read/execute.
+
+2) /dev contains device files for interfacing with devices connected to the computer. 

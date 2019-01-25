@@ -1,0 +1,11 @@
+Filesystem                                         1K-blocks       Used  Available Use% Mounted on
+udev                                                 1003424          0    1003424   0% /dev
+tmpfs                                                 204720      11080     193640   6% /run
+/dev/sda1                                           15616412    2904628   11911836  20% /
+tmpfs                                                1023600          0    1023600   0% /dev/shm
+tmpfs                                                   5120          0       5120   0% /run/lock
+tmpfs                                                1023600          0    1023600   0% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/UCLA136 2974748160  979542016 1757226368  36% /proj/UCLA136
+users.isi.deterlab.net:/mnt/other/users/la136fa   2031313280 1486489600  382318592  80% /users/la136fa
+tmpfs                                                 204720          0     204720   0% /run/user/17919
+users.isi.deterlab.net:/mnt/share                  507823232  235202048  231995392  51% /share
